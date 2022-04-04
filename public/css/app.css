@@ -11286,3 +11286,7 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.container-1440 {
+  max-width: 1440px;
+  margin: 0 auto;
+}
